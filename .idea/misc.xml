@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/drawable/bg.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/drawable/bg2.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_admin_ops.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_all_lessons.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_all_vocab_lesson.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_delete_sentences.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_delete_vocab.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_delete_vocab_lesson.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_insert_phrase.xml" value="0.22" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_insert_sen_to_lesson.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_insert_senteces.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_insert_vocab.xml" value="0.12" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_insert_vocab_lesson.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_insert_vocab_to_lesson.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_lesson_sen_to_delete.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_lesson_to_delete.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_read_sentences.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_read_vocabs.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_show_all_updable_sen.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_update_lesson.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_update_lessons.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_update_sentence.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_update_sentences.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/activity_vocab_todelete.xml" value="0.1" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/fragment_delete_options.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/fragment_home_admin.xml" value="0.22" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/fragment_home_user.xml" value="0.22" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/fragment_insert_option.xml" value="0.22" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/fragment_update_options.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/lesson_row.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/sentence_row.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/vocab_lesson_row.xml" value="0.22" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/layout/vocab_row.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/LAKSHMAN/AndroidStudioProjects/EnglishG/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14947916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activities.InsertSentece">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg2"
+        android:fontFamily="@font/baloo_bhai"
+        android:padding="3dp"
+        android:shadowColor="#FE9191"
+        android:text="Insert Sentence"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/englishSen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg"
+        android:ems="10"
+        android:hint="Enter english sentence"
+        android:inputType="textPersonName"
+        android:padding="6dp"
+        android:textAlignment="center"
+        android:textColor="#FFFAFA"
+        android:textColorHint="#B1A3A3"
+        android:textSize="20sp"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <EditText
+        android:id="@+id/hindiSen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg"
+        android:ems="10"
+        android:hint="Enter hindi sentence"
+        android:inputType="textPersonName"
+        android:padding="6dp"
+        android:textAlignment="center"
+        android:textColor="#FFFAFA"
+        android:textColorHint="#B1A3A3"
+        android:textSize="20sp"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/insertSen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="insert"
+        android:textAllCaps="false" />
+</LinearLayout>

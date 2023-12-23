@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.englishg">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EnglishG">
+        <activity
+            android:name=".Activities.DeleteVocab"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.VocabTodelete"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.DeleteVocabLesson"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ReadVocabs"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.InsertVocab"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.InsertVocabToLesson"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.InsertVocabLesson"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.AllVocabLesson"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.UpdateSentence"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ShowAllUpdableSen"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.UpdateSentences"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.UpdateLesson"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.UpdateLessons"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.DeleteSentences"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.LessonSenToDelete"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.LessonToDelete"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.ReadSentences"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.InsertSenToLesson"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.InsertSentece"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.InsertPhrase"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.AdminOps"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.AllLessons"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+</manifest>
